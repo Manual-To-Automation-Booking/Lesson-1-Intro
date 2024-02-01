@@ -26,11 +26,25 @@ Move into the directory:
 cd Lesson-1-Intro
 ```
 
-Type the following command:
+Type the following commands:
+
+Install the dependencies:
+
+```sh
+npm install
+```
+Run the test:
 
 ```sh
 npm run test
 ```
+
+OR:
+
+```sh
+node tests/test.js
+```
+
 
 There are obviously many ways to grab this repository and this is just one way. Some of the others are:
 
