@@ -10,11 +10,21 @@ This repository contains a simple Selenium based test that performs a search on 
 
 It is designed as a very entry level idea of how to interact with a website using Automation.
 
-## How To Run
+## Necessary Tools
 
-Follow the below steps to run the script on your machine:
+There are a few things that you will need before you can get started.
 
-Clone this repository:
+* NodeJS - Use [this](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) multiplatform guide to installing NodeJS and NPM.
+* Git for pulling down the code - follow [this](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) guide for installing Git on all platforms. There are other useful guides on the website mentioned previously. Start [here](https://github.com/git-guides) anad follow through to the various links to learn more about Git. It will be very useful on your automation journey. If you have any issues with tokens or user credentials, let me know as this can trip a lot of people up.
+* Visual Studio Code which can be downloaded from [here](https://code.visualstudio.com/download) or WebStorm which can be downloaded from [here](https://www.jetbrains.com/webstorm/). There are plenty of others, but these are the main 2.
+
+## Installation / How To Run
+
+To get the project ready to run on your machine, follow the steps below:
+
+* Open a terminal. (Terminal on Mac, Command Prompt on Windows)
+* Go to the directory where you want to place the code using [cd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) for Windows, and it functions mostly the same for Mac. You just use "cd" but the folder structure on Mac is different (/Users/username/Documents instead of C:/Users/username/Documents)
+* Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 
 ```sh
 git clone https://github.com/Manual-To-Automation-Booking/Lesson-1-Intro.git
